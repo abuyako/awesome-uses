@@ -52,6 +52,27 @@ module.exports = [
       'Machine Learning',
     ],
   },
+  
+   {
+    name: 'Abubakary Kowero',
+    description:
+      'Self Taught Front End Developer, Gamer, Music, UI/Ux designer',
+    url: 'https://abuyako.netlify.com/',
+    twitter: '@abuyako',
+    emoji: 'focus',
+    country: 'Tanzania',
+    computer: 'hp',
+    phone: 'Huawei',
+    tags: [
+      'Blogger',
+      'Freelancer',
+      'Front End',
+      'Javascript',
+      'UI/UX',
+      'AngularJs'
+    ],
+  },
+  
   {
     name: 'Kelvin Mai',
     description:
